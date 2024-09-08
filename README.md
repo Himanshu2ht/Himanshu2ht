@@ -11,6 +11,5 @@ I love working on problem-solving challenges and enjoy pushing my limits to lear
 - **Projects:** Writing more Java codes, expanding into new languages, and exploring development frameworks.
 - **Goals:** To be an all-rounder in coding with hands-on projects that challenge me.
 
-## How to Reach Me:
-### 🌐 How to Reach Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([linkedin.com/in/himanshu-jha-3808452b3](https://www.linkedin.com/in/himanshu-jha-3808452b3))
+## 🌐 How to Reach Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanshu-jha-3808452b3)
