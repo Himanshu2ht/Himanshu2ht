@@ -13,4 +13,4 @@ I love working on problem-solving challenges and enjoy pushing my limits to lear
 
 ## How to Reach Me:
 ### 🌐 How to Reach Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/himanshu-jha-3808452b3)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([linkedin.com/in/himanshu-jha-3808452b3](https://www.linkedin.com/in/himanshu-jha-3808452b3))
