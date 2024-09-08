@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Himanshu Kumar Jha.
+# Hi there! 👋 I'm Himanshu Jha.
 First-Year B.Sc. Computer Science Student | Java Enthusiast | Tech Explorer
 
 ## About Me
