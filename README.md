@@ -2,7 +2,7 @@
 First-Year B.Sc. Computer Science Student | Java Enthusiast | Tech Explorer
 
 ## About Me
-Hey, I'm Himanshu, a Computer Science undergrad at Ramanujan College, DU.
+Hey, I'm Himanshu, a Computer Science undergrad at Ramanujan College, DU.  
 I love working on problem-solving challenges and enjoy pushing my limits to learn something new every day.
 
 ## 🌐 How to Reach Me:
