@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+  <img src="https://i.gifer.com/3AyY.gif">
 </div>
 
 # Hi there! 👋 I'm Himanshu Jha.
