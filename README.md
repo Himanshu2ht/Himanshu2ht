@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+</div>
+
 # Hi there! 👋 I'm Himanshu Jha.
 First-Year B.Sc. Computer Science Student | Tech Explorer
 
