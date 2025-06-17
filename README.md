@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.gifer.com/3AyY.gif">
-</div>
-
 # Hi there! 👋 I'm Himanshu Jha.
 First-Year B.Sc. Computer Science Student | Tech Explorer
 
